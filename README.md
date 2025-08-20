@@ -8,7 +8,7 @@ Hi there, I'm Divendra Yadav! <img src="https://media.giphy.com/media/hvRJCLFzca
 
 <p align="center">
 <a href="https://www.iitbhu.ac.in/" target="_blank"><img src="https://img.shields.io/badge/IIT (BHU) Varanasi-Student-blue?style=for-the-badge&logo=iit-bhu&logoColor=white" alt="IIT BHU Badge"></a>
-<a href="https://summerofcode.withgoogle.com/" target="_blank"><img src="https://img.shields.io/badge/Google Summer of Code 2025-Participant-orange?style=for-the-badge&logo=google&logoColor=white" alt="GSoC 2025 Badge"></a>
+<a href="https://summerofcode.withgoogle.com/" target="_blank"><img src="https://img.shields.io/badge/Google Summer of Code 2025-Contributor-orange?style=for-the-badge&logo=google&logoColor=white" alt="GSoC 2025 Badge"></a>
 </p>
 
 </div>
