@@ -29,7 +29,7 @@ Here are the technologies I'm skilled in and work with:
 <br><strong>CSS3</strong>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
 <br><strong>Tailwind CSS</strong>
 </td>
 <td align="center" width="120">
